@@ -29,9 +29,6 @@ function Cards() {
   const firstItem = lastItem - post;
   const paginatedData = data.slice(firstItem, lastItem);
 
-  // const handlePageChange = (pageNumber) => {
-  //   setCurrentPage(pageNumber);
-  // };
 
   return (
     <div>
