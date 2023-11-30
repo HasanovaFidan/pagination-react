@@ -29,7 +29,7 @@ function Cards() {
   const firstItem = lastItem - post;
   const paginatedData = data.slice(firstItem, lastItem);
 
-
+ 
   return (
     <div>
       <Input data={data} setData={setData} original={original} />
@@ -67,3 +67,4 @@ function Cards() {
 }
 
 export default Cards;
+
