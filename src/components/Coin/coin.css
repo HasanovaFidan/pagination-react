@@ -1,0 +1,12 @@
+.open{
+    background-color: orangered;
+}
+button{
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    background-color:rgb(255, 255, 184);
+    margin-bottom: 50px;
+
+}
